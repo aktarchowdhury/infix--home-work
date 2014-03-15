@@ -1,0 +1,73 @@
+<!Doctype html>
+<html lang="eng"
+<html>
+<Head>
+<meta charset="utf-8"/>
+<Title>AKTAR'S WEBSITE</Title>
+<p1>Home:<input type="text"></p1>
+<link rel="stylesheet" href="main.css">
+</Head>
+<Body>
+<div id="big_ Wrapper">
+<Header<
+<h1> WELCOME TO MY WEBSITE></h1>
+<nav>
+<ul>
+<li>Home: </li>
+<li>About me </li>
+<li>My education</li>
+<li>Contact Me</li>
+</ul>
+<p1>First name: <input type="text" name="firstname"></p1><br></right>
+<p2>Last Name: <input type="text" name="firstname"></p2>
+<p3>Password: <input type="password" name="pwd"></p3><br><right
+<p4>ConFirm Password: <input type="password" name="pwd"></p4><br>
+<p5>Country: <input type="list Boxes to scroll"><p5/<br>
+<p6>Gender:<input type="radio" Gender="sex" value="male">Male<br>
+<input type="radio" ="sex" value="male">FeMale<br>
+<p7>Date of Birth:<input type="scroll" name="Month"></p7><br
+<input type="text" name="Day"></p><br
+<p8>E-mail:<input type="text" name="mail"><br
+<p9>SignUp:<input type="Submit" value="Submit"><br>
+<style>body
+{
+background-color:#ffcc00;
+}
+h1
+{
+color:cc6600;
+text-align:center;
+}
+p
+{
+font-family:"Times New Roman";
+font-size:20px;
+}
+<section>
+</section>
+<aside id="side_ news>
+</aside>
+<h4>News></h4>
+Aktar has an announcement!
+<footer id="the_footer">
+Copywright:Aktar preserves all rights for this website!
+</footer>
+</Header>
+<hr/>
+</br/>
+<img/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Body>
+</html>
